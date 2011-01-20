@@ -1,0 +1,8 @@
+name:           piercech8
+version:        0.1
+cabal-version:  >= 1.2
+
+executable pierce_ch8
+  hs-source-dirs:  src
+  main-is:         Main.hs
+

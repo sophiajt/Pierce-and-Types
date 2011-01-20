@@ -1,0 +1,8 @@
+name:           piercech116
+version:        0.1
+cabal-version:  >= 1.2
+
+executable pierce_ch11_6
+  hs-source-dirs:  src
+  main-is:         Main.hs
+

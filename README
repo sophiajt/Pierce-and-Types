@@ -1,0 +1,9 @@
+These examples are just me monkeying around with the example languages in Pierce's Types and Programming Languages book. 
+
+PLEASE NOTE: They are NOT meant to be complete examples, they may have bugs (both obvious and nonobvious), or may just be flat out wrong.  No guarantees.  Buy the book and read the text when in doubt.
+
+That said, it's kinda fun to translate the languages to Haskell and play with them that way.  
+
+Also, I switched the version of the Haskell plugin for Eclipse I was using part of the way through the languages, so there are two different types of projects.  For some reason I prefer the older plugin, so I stuck with that.
+
+Comments welcome.
